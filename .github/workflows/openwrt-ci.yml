@@ -6851,8 +6851,7 @@ jobs:
           #
           # CONFIG_PACKAGE_fontconfig is not set
           # end of Font-Utils
-# end of Xorg
-
+          # end of Xorg
           EOF
 
           #
